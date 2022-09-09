@@ -6,4 +6,4 @@ see if you can figure out how to render an <ul> with 2+ <li>s inside*/
 ReactDOM.render(
     <ul><li>Thing 1</li><li>Thing 2</li></ul>,
     document.getElementById("root")
-)
+) 
